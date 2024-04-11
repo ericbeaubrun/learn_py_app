@@ -1,0 +1,70 @@
+2024-04-11 14:18:26,033 - INFO - title bar frame initialized
+2024-04-11 14:18:26,044 - INFO - console initialized
+2024-04-11 14:18:26,073 - INFO - editor initialized
+2024-04-11 14:18:26,077 - INFO - congratulation frame initialized
+2024-04-11 14:18:26,077 - INFO - game initialized
+2024-04-11 14:18:26,078 - INFO - left buttons frame initialized
+2024-04-11 14:18:26,078 - INFO - main menu initialized
+2024-04-11 14:18:26,646 - INFO - level chooser menu initialized
+2024-04-11 14:18:26,646 - INFO - chapter "Hello World (1-2)" button created for levels 1-2
+2024-04-11 14:18:26,647 - INFO - level chooser menu initialized
+2024-04-11 14:18:26,647 - INFO - chapter "Types et opérations (3-12)" button created for levels 3-12
+2024-04-11 14:18:26,648 - INFO - level chooser menu initialized
+2024-04-11 14:18:26,648 - INFO - chapter "(Tutoriel) Terrain de jeu (13-16)" button created for levels 13-16
+2024-04-11 14:18:26,648 - INFO - level chooser menu initialized
+2024-04-11 14:18:26,648 - INFO - chapter "Variables (17-18)" button created for levels 17-18
+2024-04-11 14:18:26,649 - INFO - level chooser menu initialized
+2024-04-11 14:18:26,649 - INFO - chapter "Boucles (19-20)" button created for levels 19-20
+2024-04-11 14:18:26,649 - INFO - chapter choose button 0 connected to level chooser 0
+2024-04-11 14:18:26,649 - INFO - chapter choose button 1 connected to level chooser 1
+2024-04-11 14:18:26,649 - INFO - chapter choose button 2 connected to level chooser 2
+2024-04-11 14:18:26,649 - INFO - chapter choose button 3 connected to level chooser 3
+2024-04-11 14:18:26,649 - INFO - chapter choose button 4 connected to level chooser 4
+2024-04-11 14:18:26,649 - INFO - button '1' connected to 'Level1'
+2024-04-11 14:18:26,649 - INFO - button '2' connected to 'Level2'
+2024-04-11 14:18:26,649 - INFO - button '3' connected to 'Level3'
+2024-04-11 14:18:26,649 - INFO - button '4' connected to 'Level4'
+2024-04-11 14:18:26,649 - INFO - button '5' connected to 'Level5'
+2024-04-11 14:18:26,649 - INFO - button '6' connected to 'Level6'
+2024-04-11 14:18:26,649 - INFO - button '7' connected to 'Level7'
+2024-04-11 14:18:26,649 - INFO - button '8' connected to 'Level8'
+2024-04-11 14:18:26,649 - INFO - button '9' connected to 'Level9'
+2024-04-11 14:18:26,649 - INFO - button '10' connected to 'Level10'
+2024-04-11 14:18:26,649 - INFO - button '11' connected to 'Level11'
+2024-04-11 14:18:26,650 - INFO - button '12' connected to 'Level12'
+2024-04-11 14:18:26,650 - INFO - button '13' connected to 'Level13'
+2024-04-11 14:18:26,650 - INFO - button '14' connected to 'Level14'
+2024-04-11 14:18:26,650 - INFO - button '15' connected to 'Level15'
+2024-04-11 14:18:26,650 - INFO - button '16' connected to 'Level16'
+2024-04-11 14:18:26,650 - INFO - button '17' connected to 'Level17'
+2024-04-11 14:18:26,650 - INFO - button '18' connected to 'Level18'
+2024-04-11 14:18:26,650 - INFO - button '19' connected to 'Level19'
+2024-04-11 14:18:26,650 - INFO - button '20' connected to 'Level20'
+2024-04-11 14:18:26,653 - INFO - main window initialized
+2024-04-11 14:18:28,382 - INFO - chapter chooser frame shown
+2024-04-11 14:18:32,841 - INFO - level chooser frame shown
+2024-04-11 14:18:35,059 - INFO - chapter chooser frame shown
+2024-04-11 14:18:36,051 - INFO - level chooser frame shown
+2024-04-11 14:18:37,165 - INFO - 'Level1' created with no errors : length=11 height=9 (99 blocks available)
+2024-04-11 14:18:37,167 - INFO - congratulation frame hidden
+2024-04-11 14:18:37,167 - INFO - execute button enabled
+2024-04-11 14:18:37,167 - INFO - reset button enabled
+2024-04-11 14:18:37,183 - INFO - game frame shown
+2024-04-11 14:18:52,773 - INFO - cleared 'LevelNone'
+2024-04-11 14:18:52,773 - INFO - level chooser frame shown
+2024-04-11 14:18:53,440 - INFO - 'Level1' created with no errors : length=11 height=9 (99 blocks available)
+2024-04-11 14:18:53,440 - INFO - congratulation frame hidden
+2024-04-11 14:18:53,440 - INFO - execute button enabled
+2024-04-11 14:18:53,440 - INFO - reset button enabled
+2024-04-11 14:18:53,443 - INFO - game frame shown
+2024-04-11 14:18:56,266 - INFO - cleared 'LevelNone'
+2024-04-11 14:18:56,266 - INFO - level chooser frame shown
+2024-04-11 14:18:56,951 - INFO - 'Level2' created with no errors : length=11 height=9 (99 blocks available)
+2024-04-11 14:18:56,951 - INFO - congratulation frame hidden
+2024-04-11 14:18:56,951 - INFO - execute button enabled
+2024-04-11 14:18:56,951 - INFO - reset button enabled
+2024-04-11 14:18:56,954 - INFO - game frame shown
+2024-04-11 14:18:57,848 - INFO - cleared 'LevelNone'
+2024-04-11 14:18:57,849 - INFO - level chooser frame shown
+2024-04-11 14:18:58,274 - INFO - chapter chooser frame shown
+2024-04-11 14:18:59,368 - INFO - menu frame shown
