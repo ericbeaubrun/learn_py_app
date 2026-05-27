@@ -26,7 +26,7 @@ pip install PyQt6 QScintilla
 
 # Usage
 The character's movement is controlled by the user’s code. Specific instructions in the code are modified to trigger animation signals that move the character on the game grid, providing real-time feedback in console.
-![Application screenshot 1](https://github.com/ericbeaubrun/portfolio/blob/master/public/resources/projects/learn_py2.gif)
+![Application screenshot 1](https://github.com/ericbeaubrun/portfolio-js/blob/master/public/resources/projects/learn_py2.gif)
 
 ---
 
